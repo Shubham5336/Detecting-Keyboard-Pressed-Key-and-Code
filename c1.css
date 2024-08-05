@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #1c1c1c;
+    margin: 0;
+    color: white;
+}
+.project{
+    display: flex;
+    flex-direction: column;
+    background-color: #1c1c1c;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+table,td,th{
+    border: 2px solid white;
+}
